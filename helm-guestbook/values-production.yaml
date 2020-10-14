@@ -1,4 +1,4 @@
-commit_sha: $ARGOCD_APP_REVISION
+commit_sha: APP_REVISION
 
 service:
   type: LoadBalancer
