@@ -1,2 +1,4 @@
+commit_sha: SET_BY_ARGO
+
 service:
   type: LoadBalancer
