@@ -4,7 +4,7 @@ kind: Deployment
 metadata:
   name: kustomize-app
 spec:
-  replicas: 2
+  replicas: 3
   template:
     spec:
       containers:
