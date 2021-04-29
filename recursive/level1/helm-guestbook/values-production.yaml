@@ -1,0 +1,4 @@
+commit_sha: DUMMY_VALUE_HERE_ACTUALLY_SET_BY_ARGOCD
+
+service:
+  type: LoadBalancer
